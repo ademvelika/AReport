@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Document>
+  <TEKST VALUE="Kategori" TOP="55" WIDTH="191" HEIGHT="90.308998699194362" LEFT="131" />
+  <FIELD VALUE="None" WIDTH="150" HEIGHT="80" TOP="61" LEFT="293" />
+  <TABELE VALUE="None" WIDTH="547" HEIGHT="150" TOP="412" LEFT="154">
+    <COLUMNS>
+      <TABLECOLUMN COLUMNHEADER="emer" />
+      <TABLECOLUMN COLUMNHEADER="sasi" />
+      <TABLECOLUMN COLUMNHEADER="cmim" />
+    </COLUMNS>
+  </TABELE>
+</Document>

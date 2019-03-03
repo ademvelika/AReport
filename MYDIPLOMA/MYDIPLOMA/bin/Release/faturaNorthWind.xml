@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Document>
+  <SCHEMA PT="Orders" PK="OrderID" CT="Order Details" CK="OrderID" FILTER="OrderID" INSTANCE="ADI-PC\SQLEXPRESS" DATABASE="northwind">
+    <NEXT>
+      <ITEM PT="Products" PK="ProductID" CT="Order Details" CK="ProductID" />
+    </NEXT>
+  </SCHEMA>
+  <TEKST VALUE="Order No" TOP="40" WIDTH="140" HEIGHT="80" LEFT="110" />
+  <FIELD VALUE="None" WIDTH="150" HEIGHT="80" TOP="37" LEFT="246">
+    <DB TN="Orders" CN="OrderID" />
+  </FIELD>
+  <TEKST VALUE="Date" TOP="41" WIDTH="100" HEIGHT="80" LEFT="404" />
+  <FIELD VALUE="None" WIDTH="150" HEIGHT="80" TOP="38" LEFT="496.99999999999994">
+    <DB TN="Orders" CN="OrderDate" />
+  </FIELD>
+  <VIJE />
+  <TABELE VALUE="None" WIDTH="948" HEIGHT="143" TOP="275" LEFT="62">
+    <COLUMNS>
+      <TABLECOLUMN TOT="False" COLUMNHEADER="Product">
+        <DB TN="Products" CN="ProductName" />
+      </TABLECOLUMN>
+      <TABLECOLUMN TOT="False" COLUMNHEADER="Quantity">
+        <DB TN="Order Details" CN="Quantity" />
+      </TABLECOLUMN>
+      <TABLECOLUMN TOT="False" COLUMNHEADER="Price">
+        <DB TN="Order Details" CN="UnitPrice" />
+      </TABLECOLUMN>
+      <TABLECOLUMN TOT="False" COLUMNHEADER="Total">
+        <FX>
+          <VAR TN="Order Details" CN="Quantity" />
+          <OPERATOR>+</OPERATOR>
+          <VAR TN="Order Details" CN="UnitPrice" />
+        </FX>
+      </TABLECOLUMN>
+    </COLUMNS>
+  </TABELE>
+</Document>

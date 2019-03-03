@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Document>
+  <TEKST VALUE="Emer" TOP="42" WIDTH="100" HEIGHT="80" LEFT="86" />
+  <FIELD VALUE="None" WIDTH="150" HEIGHT="80" TOP="7" LEFT="181" />
+  <VIJE />
+  <TABELE VALUE="None" WIDTH="1020" HEIGHT="150" TOP="280" LEFT="70">
+    <COLUMNS>
+      <TABLECOLUMN COLUMNHEADER="Nr" />
+      <TABLECOLUMN COLUMNHEADER="Data" />
+      <TABLECOLUMN COLUMNHEADER="Qyteti" />
+    </COLUMNS>
+  </TABELE>
+</Document>

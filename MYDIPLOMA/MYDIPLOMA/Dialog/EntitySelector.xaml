@@ -1,0 +1,86 @@
+﻿<Window x:Class="MYDIPLOMA.Dialog.EntitySelector"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MYDIPLOMA.Dialog"
+        mc:Ignorable="d"
+   
+        Title="EntitetySelector" Loaded="Window_Loaded" ContentRendered="Window_ContentRendered" Height="500" Width="600" WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <Style x:Key="BaseButtonStyle" TargetType="{x:Type Button}">
+            <Setter Property="FocusVisualStyle" Value="{x:Null}"/>
+            <Setter Property="Background" Value="#1ba1e2"/>
+            <Setter Property="BorderBrush" Value="#cccccc"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="16,3,16,3"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Name="Chrome"
+                                Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                SnapsToDevicePixels="true">
+                            <ContentPresenter Name="Presenter" Margin="{TemplateBinding Padding}"
+                                    VerticalAlignment="{TemplateBinding VerticalContentAlignment}"
+                                    HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                    RecognizesAccessKey="True"
+                                    SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsEnabled" Value="false">
+                                <Setter Property="Foreground" Value="#333333" />
+                            </Trigger>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#dddddd" />
+                                <Setter Property="BorderBrush" Value="#cccccc" />
+                                <Setter Property="Foreground" Value="#333333" />
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="Background" Value="#1ba1e2" />
+                                <Setter Property="BorderBrush" Value="#1ba1e2"/>
+                                <Setter Property="Foreground" Value="#ffffff"/>
+                            </Trigger>
+                            <Trigger Property="IsFocused" Value="true">
+                                <Setter TargetName="Chrome" Property="BorderBrush" Value="#1ba1e2" />
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style BasedOn="{StaticResource BaseButtonStyle }" TargetType="Button"/>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <WrapPanel Background="#f2f2f2">
+            <Button Name="GONEXT" Click="GONEXT_Click">Go To Next</Button>
+            <Border BorderBrush="#1ba1e2" BorderThickness="0.5">
+            <WrapPanel  Name="ManyEntity"></WrapPanel>
+            </Border>
+        </WrapPanel>
+        <Canvas Grid.Row="1" Name="Editor">
+
+            <!--<Border BorderThickness="1"   Width="200" BorderBrush="Gray" Canvas.Left="20" Canvas.Top="30">
+                <StackPanel>
+                    <TextBlock Background="#39739d" FontSize="20" Foreground="White" TextAlignment="Center">Entity Name</TextBlock>
+                    <Separator></Separator>
+                    <StackPanel Margin="0,10,0,10">
+                        <Label>col 1</Label>
+                        <Label>col 2</Label>
+                        <Label>col 3</Label>
+                    </StackPanel>
+                    <ToggleButton>Hap relacionet</ToggleButton>
+                </StackPanel>
+            </Border>-->
+        </Canvas>
+    </Grid>
+</Window>

@@ -1,0 +1,177 @@
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\bin\Release\MYDIPLOMA.exe.config
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\bin\Release\MYDIPLOMA.exe
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\bin\Release\MYDIPLOMA.pdb
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\MainWindow.g.cs
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Field.g.cs
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Text.g.cs
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\App.g.cs
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA_MarkupCompile.cache
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA_MarkupCompile.lref
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\MainWindow.baml
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Field.baml
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Text.baml
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.g.resources
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.Properties.Resources.resources
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.csproj.GenerateResource.Cache
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.exe
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.pdb
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Kolone.g.cs
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Tabele.g.cs
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Kolone.baml
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Tabele.baml
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\bin\Release\EntityFramework.dll
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\bin\Release\EntityFramework.xml
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\DocumentPreview.g.cs
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\FiledSelector.g.cs
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA_Content.g.cs
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\DocumentPreview.baml
+C:\Users\Elitebook\documents\visual studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\FiledSelector.baml
+C:\Users\Elitebook\Documents\Visual Studio 2015\Projects\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.csprojResolveAssemblyReference.cache
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\bin\Release\MYDIPLOMA.exe.config
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.exe
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.pdb
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\bin\Release\MYDIPLOMA.exe
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\bin\Release\MYDIPLOMA.pdb
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\bin\Release\EPPlus.dll
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\bin\Release\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\bin\Release\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\bin\Release\Microsoft.SqlServer.Smo.dll
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\bin\Release\PdfSharp-WPF.dll
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\bin\Release\PdfSharp.Charting.dll
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\bin\Release\PdfSharp.dll
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\bin\Release\PdfSharp.Xps.dll
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\bin\Release\EPPlus.xml
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\bin\Release\PdfSharp.xml
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\bin\Release\PdfSharp-WPF.xml
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\bin\Release\PdfSharp.Charting.xml
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\bin\Release\PdfSharp.Xps.xml
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\bin\Release\de\PdfSharp.resources.dll
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\bin\Release\de\PdfSharp.Charting.resources.dll
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.csprojResolveAssemblyReference.cache
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\DocumentPreview.g.cs
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\EntitySelector.g.cs
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\FiledSelector.g.cs
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\FunctionWindowd.g.cs
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\MainWindow.g.cs
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Field.g.cs
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Kolone.g.cs
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Line.g.cs
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Tabele.g.cs
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Text.g.cs
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\App.g.cs
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA_MarkupCompile.cache
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA_MarkupCompile.lref
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\App.baml
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\DocumentPreview.baml
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\EntitySelector.baml
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\FiledSelector.baml
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\FunctionWindowd.baml
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\MainWindow.baml
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Field.baml
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Kolone.baml
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Line.baml
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Tabele.baml
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Text.baml
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.g.resources
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.Properties.Resources.resources
+C:\Users\Elitebook\Desktop\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.csproj.GenerateResource.Cache
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\MYDIPLOMA.exe.config
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.exe
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.pdb
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\MYDIPLOMA.exe
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\MYDIPLOMA.pdb
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\EPPlus.dll
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\Microsoft.SqlServer.Smo.dll
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\PdfSharp-WPF.dll
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\PdfSharp.Charting.dll
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\PdfSharp.dll
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\PdfSharp.Xps.dll
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\EPPlus.xml
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\PdfSharp.xml
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\PdfSharp-WPF.xml
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\PdfSharp.Charting.xml
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\PdfSharp.Xps.xml
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\de\PdfSharp.resources.dll
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\de\PdfSharp.Charting.resources.dll
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.csprojResolveAssemblyReference.cache
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\DocumentPreview.g.cs
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\EntitySelector.g.cs
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\FiledSelector.g.cs
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\FunctionWindowd.g.cs
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MainWindow.g.cs
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Field.g.cs
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Kolone.g.cs
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Line.g.cs
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Tabele.g.cs
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Text.g.cs
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\App.g.cs
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA_MarkupCompile.cache
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA_MarkupCompile.lref
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\App.baml
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\DocumentPreview.baml
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\EntitySelector.baml
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\FiledSelector.baml
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\FunctionWindowd.baml
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MainWindow.baml
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Field.baml
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Kolone.baml
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Line.baml
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Tabele.baml
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Text.baml
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.g.resources
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.Properties.Resources.resources
+C:\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.csproj.GenerateResource.Cache
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\MYDIPLOMA.exe.config
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.exe
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.pdb
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\MYDIPLOMA.exe
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\MYDIPLOMA.pdb
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\EPPlus.dll
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\Microsoft.SqlServer.Smo.dll
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\PdfSharp.Charting.dll
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\PdfSharp.dll
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\EPPlus.xml
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\PdfSharp.xml
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\PdfSharp-WPF.xml
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\PdfSharp.Charting.xml
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\PdfSharp.Xps.xml
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\de\PdfSharp.resources.dll
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\bin\Release\de\PdfSharp.Charting.resources.dll
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.csprojResolveAssemblyReference.cache
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\DocumentPreview.g.cs
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\EntitySelector.g.cs
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\FiledSelector.g.cs
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\FunctionWindowd.g.cs
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MainWindow.g.cs
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Field.g.cs
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Kolone.g.cs
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Line.g.cs
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Tabele.g.cs
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Text.g.cs
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\App.g.cs
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA_MarkupCompile.cache
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA_MarkupCompile.lref
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\App.baml
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\DocumentPreview.baml
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\EntitySelector.baml
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\FiledSelector.baml
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\Dialog\FunctionWindowd.baml
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MainWindow.baml
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Field.baml
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Kolone.baml
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Line.baml
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Tabele.baml
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MyControler\Text.baml
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.g.resources
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.Properties.Resources.resources
+C:\Windows.old\Users\Elitebook\Desktop\Prezantimi\MYDIPLOMA\MYDIPLOMA\obj\Release\MYDIPLOMA.csproj.GenerateResource.Cache

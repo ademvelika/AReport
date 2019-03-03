@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="MYDIPLOMA.MyControler.Kolone"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MYDIPLOMA.MyControler"
+             mc:Ignorable="d" Background="#D6DBEA
+"
+             >
+    <StackPanel  >
+        <TextBox Name="ColHeader" BorderThickness="1,1,0,1" Background="#31CBFF" Foreground="White" BorderBrush="Gray" FontSize="25">column1</TextBox>
+        <local:TableField x:Name="FieldColumn"></local:TableField>
+       
+    </StackPanel>
+</UserControl>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Document>
+  <SCHEMA PT="Orders" PK="OrderID" CT="Order Details" CK="OrderID" FILTER="OrderID" INSTANCE="ELITEBOOK-PC\SQLEXPRESS" DATABASE="northwind">
+    <NEXT>
+      <ITEM PT="Products" PK="ProductID" CT="Order Details" CK="ProductID" />
+      <ITEM PT="Suppliers" PK="SupplierID" CT="Products" CK="SupplierID" />
+      <ITEM PT="Categories" PK="CategoryID" CT="Products" CK="CategoryID" />
+    </NEXT>
+  </SCHEMA>
+  <TEKST VALUE="Numer Fature" TOP="27" WIDTH="183" HEIGHT="80" LEFT="200" />
+  <FIELD VALUE="None" WIDTH="150" HEIGHT="80" TOP="22" LEFT="378">
+    <DB TN="Orders" CN="OrderID" />
+  </FIELD>
+  <TEKST VALUE="Data" TOP="23" WIDTH="100" HEIGHT="80" LEFT="561" />
+  <FIELD VALUE="None" WIDTH="150" HEIGHT="80" TOP="22" LEFT="659">
+    <DB TN="Orders" CN="OrderDate" />
+  </FIELD>
+  <VIJE />
+  <TABELE VALUE="None" WIDTH="864" HEIGHT="149" TOP="306" LEFT="75">
+    <COLUMNS>
+      <TABLECOLUMN TOT="False" COLUMNHEADER="Produkt">
+        <DB TN="Products" CN="ProductName" />
+      </TABLECOLUMN>
+      <TABLECOLUMN TOT="False" COLUMNHEADER="Sasi">
+        <DB TN="Order Details" CN="Quantity" />
+      </TABLECOLUMN>
+      <TABLECOLUMN TOT="False" COLUMNHEADER="Cmim">
+        <DB TN="Order Details" CN="UnitPrice" />
+      </TABLECOLUMN>
+      <TABLECOLUMN TOT="True" COLUMNHEADER="Total">
+        <FX>
+          <VAR TN="Order Details" CN="UnitPrice" />
+          <OPERATOR>+</OPERATOR>
+          <VAR TN="Order Details" CN="Quantity" />
+        </FX>
+      </TABLECOLUMN>
+    </COLUMNS>
+  </TABELE>
+</Document>

@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="MYDIPLOMA.MyControler.Tabele"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MYDIPLOMA.MyControler"
+             mc:Ignorable="d" 
+            >
+    <Grid Margin="10" Background="AliceBlue">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="auto" />
+        </Grid.ColumnDefinitions>
+    
+        <Grid Grid.Column="0" Margin="10,5"  Name="Container" HorizontalAlignment="Stretch">
+            <Grid.ColumnDefinitions >
+                
+            </Grid.ColumnDefinitions>
+           
+        </Grid>
+           
+                <Button Grid.Column="1" Name="AddColumnBtn" VerticalAlignment="Top" Height="60" Click="AddColumnBtn_Click" Background="Transparent" HorizontalAlignment="Right" BorderBrush="Transparent" >
+                    <Image Width="50"  Height="50" Source="/Images/plus.png"/>
+                </Button>
+          
+        
+     
+        
+    </Grid>
+</UserControl>

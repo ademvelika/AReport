@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Document>
+  <SCHEMA PT="Orders" PK="OrderID" CT="Order Details" CK="OrderID" FILTER="OrderID" INSTANCE="ELITEBOOK-PC\SQLEXPRESS" DATABASE="northwind">
+    <NEXT />
+  </SCHEMA>
+  <TEKST VALUE="NR FATURE" TOP="24" WIDTH="204" HEIGHT="80" LEFT="164" />
+  <FIELD VALUE="None" WIDTH="150" HEIGHT="80" TOP="22" LEFT="373">
+    <DB TN="Orders" CN="OrderID" />
+  </FIELD>
+  <TABELE VALUE="None" WIDTH="833" HEIGHT="120" TOP="190" LEFT="34">
+    <COLUMNS>
+      <TABLECOLUMN TOT="False" COLUMNHEADER="emer">
+        <DB TN="Products" CN="ProductName" />
+      </TABLECOLUMN>
+      <TABLECOLUMN TOT="False" COLUMNHEADER="sasi">
+        <DB TN="Order Details" CN="Quantity" />
+      </TABLECOLUMN>
+      <TABLECOLUMN TOT="False" COLUMNHEADER="cmim">
+        <DB TN="Order Details" CN="UnitPrice" />
+      </TABLECOLUMN>
+      <TABLECOLUMN TOT="True" COLUMNHEADER="total">
+        <FX>
+          <VAR TN="Order Details" CN="Quantity" />
+          <OPERATOR>+</OPERATOR>
+          <VAR TN="Order Details" CN="UnitPrice" />
+        </FX>
+      </TABLECOLUMN>
+    </COLUMNS>
+  </TABELE>
+</Document>
